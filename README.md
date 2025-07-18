@@ -21,4 +21,4 @@ const [network, setNetwork] = useLocalStorage<BitcoinNetworkType>(
 BitcoinNetworkType.Testnet
 ); : testnet
 
-Pls contact me on https://discord.gg/9HwbSWsE
+Pls contact me on https://discord.gg/9HwbSWsE Xtoshi
